@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Amine Ennaciri</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Amine Enn</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
